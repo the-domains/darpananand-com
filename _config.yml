@@ -1,14 +1,26 @@
-layout_spectrum: 0.190825
 color:
   saturation: 0.5284479
-  lightness: 0.2216213
   brandStrength: 1
+  rhythmicContrast: 0.3706723
   brandColors:
     - '#FFFFFF'
     - '#E0C56F'
     - '#FAF0CE'
     - '#916528'
     - '#99886E'
-  rhythmicContrast: 0.3706723
+  lightness: 0.2216213
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.190825
 typography_spectrum: 0.387218
 name: Darpananand.com
