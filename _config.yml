@@ -1,14 +1,7 @@
-color:
-  saturation: 0.5284479
-  brandStrength: 1
-  rhythmicContrast: 0.3706723
-  brandColors:
-    - '#FFFFFF'
-    - '#E0C56F'
-    - '#FAF0CE'
-    - '#916528'
-    - '#99886E'
-  lightness: 0.2216213
+name: www.darpananand.com
+favicon: null
+layout_spectrum: 0.190825
+typography_spectrum: 0.387218
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.190825
-typography_spectrum: 0.387218
-name: Darpananand.com
+title: Darpan Anand
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#E0C56F'
+    - '#FAF0CE'
+    - '#916528'
+    - '#99886E'
+  brandStrength: 1
+  lightness: 0.2216213
+  saturation: 0.5284479
+  rhythmicContrast: 0.3706723
+purpose: []
